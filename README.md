@@ -1,6 +1,7 @@
-# ⚛️ ITCSIU21064_Thesis_Final — Personalized Meal Planning and Cooking Assistance for Diabetic Users
+# ITCSIU21064_Thesis_Final — Personalized Meal Planning and Cooking Assistance for Diabetic Users
+<img width="1918" height="872" alt="Home" src="https://github.com/user-attachments/assets/4aaa19d5-0e84-49f3-9b55-e67c31a1260f" />
 
-## 📥 Download & Setup Instructions
+## Download & Setup Instructions
 
 Clone the project from the `main` branch:
 
@@ -11,7 +12,7 @@ cd ITCSIU21064_Thesis_Final
 
 ---
 
-## 🧱 Environment Requirements
+## Environment Requirements
 
 Ensure the following software is installed:
 
@@ -43,12 +44,12 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
 
-> 📦 Note: The `node_modules` folder is not included in the Git repository.
+> Note: The `node_modules` folder is not included in the Git repository.
 > Running `npm install` will automatically generate it based on `package.json`.
 
 ---
 
-## 🎨 TailwindCSS Configuration
+## TailwindCSS Configuration
 
 Update the `tailwind.config.js` file as follows:
 
@@ -74,7 +75,7 @@ In `src/index.css` or `src/App.css`, make sure the following lines are included:
 
 ---
 
-## 🚀 Running the Application
+## Running the Application
 
 To start the development server:
 
