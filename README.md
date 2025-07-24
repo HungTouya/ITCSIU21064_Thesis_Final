@@ -1,4 +1,4 @@
-# ⚛️ ITCSIU21064_Thesis_Final — ReactJS Firebase App with TailwindCSS
+# ⚛️ ITCSIU21064_Thesis_Final — Personalized Meal Planning and Cooking Assistance for Diabetic Users
 
 ## 📥 Download & Setup Instructions
 
