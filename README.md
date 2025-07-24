@@ -89,5 +89,4 @@ Visit the app in your browser at: [http://localhost:3000](http://localhost:3000)
 > From there, you can **create a new account or log in** using Firebase Authentication.
 
 ```
-```
 
