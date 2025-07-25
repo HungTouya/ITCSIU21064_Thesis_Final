@@ -1,6 +1,28 @@
 # ITCSIU21064_Thesis_Final — Personalized Meal Planning and Cooking Assistance for Diabetic Users
 <img width="1918" height="872" alt="Home" src="https://github.com/user-attachments/assets/4aaa19d5-0e84-49f3-9b55-e67c31a1260f" />
 
+## Thesis Goals and Objectives
+
+This project develops a **web-based meal planning and cooking assistance platform** tailored for diabetic users. It offers expert-recommended and customizable meal plans supported by AI.
+
+Users select their diabetes type in their profile. If they choose a meal unsuitable for their condition, the system provides a **warning message** with three options:
+1. Proceed with the original meal
+2. Choose a suitable alternative
+3. Return to the menu
+
+### Technologies Used:
+- ReactJS
+- Firebase (Firestore, Authentication, Storage)
+- TailwindCSS
+- Dialogflow (for AI chatbot)
+
+### Key UI Features:
+- Login & Health Quiz
+- Personalized Homepage
+- Expert & Custom Schedule Pages
+- AI Chatbox for Meal Advice
+- Warning Messages with Alternatives
+
 ## Download & Setup Instructions
 
 Clone the project from the `main` branch:
@@ -82,8 +104,6 @@ To start the development server:
 ```bash
 npm start
 ```
-
-Visit the app in your browser at: [http://localhost:3000](http://localhost:3000)
 
 > ✅ **Important:**
 > If the app opens on a screen that is **not the login page**, please click the **"Logout"** button to return to the login screen.
