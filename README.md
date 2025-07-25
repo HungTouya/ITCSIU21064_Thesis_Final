@@ -28,7 +28,7 @@ Users select their diabetes type in their profile. If they choose a meal unsuita
 Clone the project from the `main` branch:
 
 ```bash
-git clone [<your-repository-url>](https://github.com/HungTouya/ITCSIU21064_Thesis_Final.git)
+git clone https://github.com/HungTouya/ITCSIU21064_Thesis_Final.git
 cd ITCSIU21064_Thesis_Final
 ````
 
